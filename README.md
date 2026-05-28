@@ -14,5 +14,3 @@ npm run preview -- --host 0.0.0.0 --port 4173
 ## Deploy on dFlow
 
 Connect this repo in dFlow and use `dflow.template.json` for install/build/start commands.
-
-test 10
